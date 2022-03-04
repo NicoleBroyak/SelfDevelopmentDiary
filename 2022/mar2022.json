@@ -5,12 +5,25 @@
 ["Recording and editing my video for Transfemmes YT channel", 1.5],
 ["Transfemmes fanpage editing", 1]
 ],
+
 "02.03": [
 ["Snooker training", 3],
 ["Mindfulness", 0.5],
 ["Editing my video for Transfemmes YT channel", 0.5],
 ["Transfemmes fanpage activity", 0.5],
 ["Reading Python book - chapter about standard modules library - modules shelve and re", 0.75]
+],
+
+"03.03": [
+["Snooker training", 3],
+["Mindfulness", 0.5],
+["Physiotherapy and examination", 2],
+["Reading Python book - chapters about GUI and databases", 0.75]
+],
+
+"04.03": [
+["Mindfulness", 0.5],
+["Lack of energy, just enough to beat personal best in brain training game 1-100", 2]
 ]
 
 }
