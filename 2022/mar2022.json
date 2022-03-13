@@ -24,7 +24,62 @@
 "04.03": [
 ["Mindfulness", 0.5],
 ["Lack of energy, just enough to beat personal best in brain training game 1-100", 2]
+],
+
+"05.03": [
+["Snooker tournament", 12],
+["Mindfulness", 0.5]
+],
+
+"06.03": [
+["Mindfulness", 0.5]
+],
+
+"07.03": [
+["Mindfulness", 0.5],
+["Physiotherapy", 1]
+],
+
+"08.03": [
+["Mindfulness", 0.5],
+["Physiotherapy", 1],
+["Recording video for Transfemmes", 2],
+["Personal development for work - general", 2] 
+],
+
+"09.03": [
+["Mindfulness", 0.5],
+["Physiotherapy", 1],
+["Personal development for work - HTTP", 4],
+["Personal development for work - SQL", 2],
+["Snooker training", 1.5]
+],
+
+"10.03": [
+["Mindfulness", 0.5],
+["Physiotherapy", 1],
+["Personal development for work - SQL", 8] 
+],
+
+"11.03": [
+["Mindfulness", 0.5],
+["Physiotherapy", 1],
+["Personal development for work - SQL", 7] 
+],
+
+"12.03": [
+["Mindfulness", 0.5],
+["Recording video for Transfemmes", 2],
+["Personal development for work - SQL", 8] 
+],
+
+"13.03": [
+["Mindfulness", 0.5],
+["Recording video for Transfemmes", 2],
+["Personal development for work - SQL", 7] 
 ]
+
+    
 
 }
 
